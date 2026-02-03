@@ -1,4 +1,4 @@
-import { GoogleGenAI, Type } from "@google/genai";
+import { GoogleGenAI, Type } from "@google/generative-ai";
 import { ClassItem, DifficultyLevel, GeneratedLesson } from "../types";
 
 // Initialize Gemini Client
